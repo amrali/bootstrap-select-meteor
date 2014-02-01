@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.add_files('bootstrap-select/bootstrap-select.min.css', 'client');
-  api.add_files('bootstrap-select/bootstrap-select.min.js', 'client');
+  api.add_files('bootstrap-select.min.css', 'client');
+  api.add_files('bootstrap-select.min.js', 'client');
 });
 
