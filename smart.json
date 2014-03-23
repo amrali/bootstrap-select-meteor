@@ -3,7 +3,7 @@
   "description": "A custom select/multiselect for @twitter bootstrap using button dropdown.",
   "homepage": "https://github.com/amrali/bootstrap-select-meteor",
   "author": "Amr Ali",
-  "version": "1.4.4",
+  "version": "1.5.2",
   "git": "https://github.com/amrali/bootstrap-select-meteor.git"
 }
 
