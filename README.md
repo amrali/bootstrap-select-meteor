@@ -7,5 +7,5 @@ If I forgot to upgrade to the latest version, please start a new issue
 or notify me and I'll happily upgrade it for you. Or if you want
 to be nice and save me a few seconds; fork it, make a PR and I'll merge it.
 
-Author: Amr Ali <amralicc AT gmail.com>
+Author: Amr Ali (amralicc AT gmail.com)
 
